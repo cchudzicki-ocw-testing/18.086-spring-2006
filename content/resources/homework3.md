@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: homework3.pdf
-type: OCWFile
 uid: 9777b6dd-d5c7-8188-2111-9f8e575d48f7
 ---

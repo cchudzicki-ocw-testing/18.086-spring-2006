@@ -12,6 +12,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: josephkovacpro.pdf
-type: OCWFile
 uid: 12c176f3-c3db-7c3d-8f72-c9dcad3e9390
 ---

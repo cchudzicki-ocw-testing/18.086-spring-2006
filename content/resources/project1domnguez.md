@@ -12,6 +12,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: project1domnguez.pdf
-type: OCWFile
 uid: 4bfb14a3-06e4-cc0a-7f89-e0d719754fdb
 ---

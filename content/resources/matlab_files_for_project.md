@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Other
 title: Matlab_Files_for_Project.zip
-type: OCWFile
 uid: 56405b40-af21-7abe-9137-132097f5734b
 ---

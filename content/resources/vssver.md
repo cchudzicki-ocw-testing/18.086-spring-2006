@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: vssver.scc
-type: OCWFile
 uid: ce1b6a5f-7a05-17ff-17d5-cf28d3d3ddd8
 ---
