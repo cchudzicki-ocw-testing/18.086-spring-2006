@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/b73467bd62c35b7081330e7c0895e7cf_ByGXz_uHEdM.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b73467bd-62c3-5b70-8133-0e7c0895e7cf
