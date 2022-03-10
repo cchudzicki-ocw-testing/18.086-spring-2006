@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: e8d4537a-777e-740f-b4ba-a0c811d83c75
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project Overview

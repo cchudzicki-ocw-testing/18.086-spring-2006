@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: project1domnguez.pdf
 uid: 4bfb14a3-06e4-cc0a-7f89-e0d719754fdb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

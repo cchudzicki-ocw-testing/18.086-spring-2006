@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: josephkovacpro.pdf
 uid: 12c176f3-c3db-7c3d-8f72-c9dcad3e9390
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

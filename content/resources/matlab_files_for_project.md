@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Matlab_Files_for_Project.zip
 uid: 56405b40-af21-7abe-9137-132097f5734b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
