@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: homework3.pdf
 uid: 9777b6dd-d5c7-8188-2111-9f8e575d48f7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

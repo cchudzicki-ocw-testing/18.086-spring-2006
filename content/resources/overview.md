@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: overview.pdf
 uid: 4cd6d258-1221-4df9-a288-3e6a96ab3229
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
