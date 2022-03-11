@@ -14,4 +14,6 @@ title: cdi.m
 uid: b9daecea-825b-1516-da64-6a0c378ea575
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

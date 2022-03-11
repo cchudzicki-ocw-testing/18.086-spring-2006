@@ -15,4 +15,6 @@ title: case2.m
 uid: 3aea180a-8688-5f07-3e13-ee9d84ee1c49
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

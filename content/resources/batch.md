@@ -15,4 +15,6 @@ title: batch.m
 uid: 188614d4-b295-9da9-27e1-a83caf8a826e
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

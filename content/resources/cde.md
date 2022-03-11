@@ -14,4 +14,6 @@ title: cde.m
 uid: 46bac092-3cfa-14c3-beac-0b1e0505f93a
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,6 @@ title: schrodinger_unstable.m
 uid: e47b5c95-8a37-d3b4-c186-e4389306aa4b
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

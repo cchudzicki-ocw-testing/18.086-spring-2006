@@ -14,4 +14,6 @@ title: schrodinger_stable.m
 uid: cb720901-6167-feef-5058-9b49153e3857
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

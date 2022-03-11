@@ -14,4 +14,6 @@ title: schrodinger_stable_implicit.m
 uid: 9ca69deb-6d30-8711-8403-bf7b103d08b5
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
