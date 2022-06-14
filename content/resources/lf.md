@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for Homework 2 assignment.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/22a9bd36a8bc98735984c94a65e2af4e_LF.m
+file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/22a9bd36a8bc98735984c94a65e2af4e_LF.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This is a supporting file for Homework 2 assignment.

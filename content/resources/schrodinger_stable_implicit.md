@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for Homework assignment 2.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/9ca69deb6d3087118403bf7b103d08b5_schrodinger_stable_implicit.m
+file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/9ca69deb6d3087118403bf7b103d08b5_schrodinger_stable_implicit.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This is a supporting file for Homework assignment 2.

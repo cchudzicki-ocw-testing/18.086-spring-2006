@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/b0af1d5dfda65e88ab93b41ce5f15db0_iVUsEwSg-lw.vtt
+file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/b0af1d5dfda65e88ab93b41ce5f15db0_iVUsEwSg-lw.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
