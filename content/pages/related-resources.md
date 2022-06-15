@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes Prof. Professor Strang's related courses on OCW,
+  related textbooks, notes, and videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

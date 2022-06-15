@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The study material section discusses about papers, matlab documentation
+  and other thoughts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

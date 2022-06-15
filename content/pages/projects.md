@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The projects section provides information on the project for the course
+  and two sample projects by students.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
